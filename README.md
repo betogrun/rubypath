@@ -9,7 +9,6 @@ RubyPath is a collection of coding exercises designed to help you practice and i
   - `test.rb`: The file that contains tests for the exercise.
   - `README.md`: Instructions specific to the exercise.
 - `runner.rb`: The central runner script that runs the tests for a specified exercise.
-- `debug_initializer.rb`: A global initializer to enable debugging across all exercises.
 
 ## How to Use
 
@@ -55,11 +54,13 @@ To add new exercises, follow these steps:
 
 Here’s an example of how the files are structured for the "String Manipulation" exercise:
 
+```bash
 exercises/
   string_manipulation/
     solution.rb    # Your solution for reversing a string
     test.rb        # Minitest file for verifying your solution
     README.md      # Instructions for the exercise
+```
 
 To run the tests for this exercise:
 ```bash

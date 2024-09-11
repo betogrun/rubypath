@@ -12,5 +12,5 @@ For the number `9`, your method should return `false` (because 9 is not a prime 
 2. To test your solution, run the following command in the terminal:
 
 ```bash
-ruby exercises/prime_number/runner.rb
+ruby runner.rb prime_numbers
 ```

@@ -11,5 +11,5 @@ Given the string `"hello"`, your method should return `"olleh"`.
 2. To test your solution, run the following command in the terminal:
 
 ```bash
-ruby exercises/string_manipulation/runner.rb
+ruby runner.rb string_manipulation
 ```

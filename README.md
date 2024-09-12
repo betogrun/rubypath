@@ -15,7 +15,7 @@ RubyPath is a collection of coding exercises designed to help you practice and i
 1. **Clone the repository**:
 
   ```bash
-  git clone https://github.com/your-username/rubypath.git
+  git clone https://github.com/betogrun/rubypath.git
   cd rubypath
 ```
 

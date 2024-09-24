@@ -1,15 +1,15 @@
-# Exercise: Vowel Count
+# Exercise: Anagram Check
 
 ## Task
-Implement a method that counts the number of vowels (a, e, i, o, u, both uppercase and lowercase) in a given string.
+Write a function that checks if two given strings are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
 ### Example
-For the string `"hello world"`, your method should return `5` (since there are 3 vowels in "hello" and 2 vowels in "world").
+Given the strings "listen" and "silent", the function should return `true` because "listen" is an anagram of "silent".
+Given the strings "hello" and "world", the function should return `false` because "hello" is not an anagram of "world".
 
 ## Instructions
-1. Open the file `solution.rb` and implement the method `count_vowels`.
-2. To test your solution, run the following command in the terminal:
+To run the anagram check, use the following command:
 
 ```bash
-ruby runner.rb vowel_count
+ruby runner.rb anagram_check
 ```
